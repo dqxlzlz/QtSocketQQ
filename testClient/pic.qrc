@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/back"/>
+    <qresource prefix="/">
+        <file>picture/avatar.jpg</file>
+        <file>picture/password (.png</file>
+        <file>picture/qqIcon.png</file>
+        <file>picture/backgroundTop.jpg</file>
+        <file>picture/registerTop.jpg</file>
+        <file>picture/room.png</file>
+        <file>picture/search.png</file>
+        <file>picture/HomeBackground.jpg</file>
+        <file>picture/top.jpg</file>
+        <file>picture/addFriend.png</file>
+        <file>picture/candidate.png</file>
+        <file>picture/wheter.png</file>
+        <file>picture/muea.png</file>
+        <file>picture/qqshow.png</file>
+        <file>picture/cut.png</file>
+        <file>picture/emojy.png</file>
+        <file>picture/file.png</file>
+        <file>picture/more.png</file>
+        <file>picture/close.png</file>
+        <file>picture/max.png</file>
+        <file>picture/min.png</file>
+        <file>picture/ofline.jpg</file>
+        <file>picture/online.jpg</file>
+        <file>picture/set.png</file>
+        <file>picture/setting2.png</file>
+        <file>picture/setting.png</file>
+        <file>picture/AvatroPic.jpg</file>
+    </qresource>
+</RCC>
